@@ -2,7 +2,6 @@ package guiaarrayslist;
 import java.util.Scanner;
 public class GuiaArraysList {
     public static void main(String[] args) {
-        //sssssssss
       Scanner scanner= new Scanner(System.in);
       String [] nomb= new String[5];
       for(int i=0;i<nomb.length;i++){
