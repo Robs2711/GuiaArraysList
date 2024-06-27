@@ -1,6 +1,5 @@
 package guiaarrayslist;
 import java.util.ArrayList;
-import java.util.Scanner;
 public class Ejercicio02 {
     public static void main(String[] args) {
         ArrayList<String> nomb= new ArrayList<>();
